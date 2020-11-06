@@ -39,7 +39,7 @@ end
 
 def play(board)
   counter = 0
-  while couter < 9
+  while counter < 9
   display_board(board)
     counter += 1
   end
